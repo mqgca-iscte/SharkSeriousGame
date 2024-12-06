@@ -22,53 +22,65 @@ Tests conducted with 38 children, aged between 9 and 11, showed a significant in
   
 • Starting the Game
 
-  – Launch the game from your gaming system’s menu.
+      – Launch the game from your gaming system’s menu.
   
 • Navigation Menus
 
-  – Use the circle, triangle, square or x button (as indicated on-screen) to select
-options.
+      – Use the circle, triangle, square or x button (as indicated on-screen) to select
+    options.
 
 ### Scene 1: Shark Knowledge and Perception Questionnaire
 • Objective
-  – Complete a questionnaire presented by a diver character to assess knowledge
-about sharks.
+
+    – Complete a questionnaire presented by a diver character to assess knowledge
+    about sharks.
 • Gameplay Mechanics
-  – Listen to the diver’s instructions and respond using the controller’s action
-buttons (circle or x as indicated).
-  – Respond to the questionnaire by using a mix of R1 or L1 to navigate through
-the options and the x button to lock the option.
+
+      – Listen to the diver’s instructions and respond using the controller’s action
+    buttons (circle or x as indicated).
+      – Respond to the questionnaire by using a mix of R1 or L1 to navigate through
+    the options and the x button to lock the option.
 • Visual and Audio Features
-  – Enjoy realistic ocean and skybox visuals with a water shader for immersive
-effects.
-  – Experience wave motion on the boat, simulating ocean waves for a lifelike
-environment.
+
+      – Enjoy realistic ocean and skybox visuals with a water shader for immersive
+    effects.
+      – Experience wave motion on the boat, simulating ocean waves for a lifelike
+    environment.
+    
 ### Scene 2: Main Gameplay - Tracking and Rescuing Sharks
 • Objective
-  – Track and rescue injured sharks using specialized equipment and tools.
+
+      – Track and rescue injured sharks using specialized equipment and tools.
 • Gameplay Mechanics
-  – Use the left stick to move and the right stick to rotate  
-  – Track at least 6 sharks of the species indicated by the diver
-  – Use the radar to locate tracked sharks and identify injured ones.
-  – Approach injured sharks and answer educational questions to remove haz-
-ards (hooks, fishnets).
+
+      – Use the left stick to move and the right stick to rotate  
+      – Track at least 6 sharks of the species indicated by the diver
+      – Use the radar to locate tracked sharks and identify injured ones.
+      – Approach injured sharks and answer educational questions to remove haz-
+    ards (hooks, fishnets).
 • Special Features
-  – Realistic boundary management with planes ensuring players remain within
-the gameplay area.
-  – Adaptable boundaries throughout time to make sure the players are able to
-track all sharks.
-  – Immersive audio transitions between underwater and surface environments
-for enhanced realism.
+
+      – Realistic boundary management with planes ensuring players remain within
+    the gameplay area.
+      – Adaptable boundaries throughout time to make sure the players are able to
+    track all sharks.
+      – Immersive audio transitions between underwater and surface environments
+    for enhanced realism.
+    
 ### Scene 3: Final Questionnaire and Awards
 • Objective
-  – Complete a follow-up questionnaire to acquire any learning about shark con-
-servation and changes in perceptions.
-  – Respond to the questionnaire by using a mix of R1 or L1 to navigate through
-the options and the x button to lock the option.
+
+      – Complete a follow-up questionnaire to acquire any learning about shark con-
+    servation and changes in perceptions.
+      – Respond to the questionnaire by using a mix of R1 or L1 to navigate through
+    the options and the x button to lock the option.
+    
 • Reward System
-  – Receive certification and educational pamphlet.
-  – Enjoy the final scene’s visuals and reflect on the overall gameplay experience.
+
+    – Receive certification and educational pamphlet.
+    – Enjoy the final scene’s visuals and reflect on the overall gameplay experience.
 ### Game Controls (DualShock 2)
+
 • Left Stick: Move character.
 • Right Stick: Rotate player.
 • Symbol Buttons (Circle, X, Square, Triangle): Interact with objects, answer
