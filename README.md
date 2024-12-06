@@ -16,9 +16,9 @@ Tests conducted with 38 children, aged between 9 and 11, showed a significant in
 ### Initial Setup and Controls
 • Controller Setup
 
-  – Connect the DualShock controller to your gaming system.
+    – Connect the DualShock controller to your gaming system.
   
-  – Ensure the controller is properly configured to interact with the game.
+    – Ensure the controller is properly configured to interact with the game.
   
 • Starting the Game
 
