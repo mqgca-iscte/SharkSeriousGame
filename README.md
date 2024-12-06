@@ -15,13 +15,20 @@ Tests conducted with 38 children, aged between 9 and 11, showed a significant in
 ![image](https://github.com/user-attachments/assets/648aa2c1-53c9-4381-bcc6-dab7154e2dbf)
 ### Initial Setup and Controls
 • Controller Setup
+
   – Connect the DualShock controller to your gaming system.
+  
   – Ensure the controller is properly configured to interact with the game.
+  
 • Starting the Game
+
   – Launch the game from your gaming system’s menu.
+  
 • Navigation Menus
+
   – Use the circle, triangle, square or x button (as indicated on-screen) to select
 options.
+
 ### Scene 1: Shark Knowledge and Perception Questionnaire
 • Objective
   – Complete a questionnaire presented by a diver character to assess knowledge
