@@ -82,8 +82,11 @@ Tests conducted with 38 children, aged between 9 and 11, showed a significant in
 ### Game Controls (DualShock 2)
 
 • Left Stick: Move character.
+
 • Right Stick: Rotate player.
+
 • Symbol Buttons (Circle, X, Square, Triangle): Interact with objects, answer
 questions.
+
 • R1, L1: Navigate through options in the questionnaires or add and remove scuba
 goggles.
