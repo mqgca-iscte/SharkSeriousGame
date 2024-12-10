@@ -1,5 +1,5 @@
 This repository contains code accompaning the paper "A serious game to increase children’s knowledge about the vital role of sharks in marine ecosystems" to appear in the Proceedings of the International Conference on Graphics and Interaction 2024.
-# Shark Serious Game
+# Shark Heroes
 A serious game to increase children’s knowledge about the vital role of sharks in marine ecosystems
 
 ## Abstract 
@@ -94,5 +94,5 @@ goggles.
 ___
 
 # Citation
-If you use Shark Saviors for academic research you are highly encouraged to cite the following paper:
+If you use Shark Heroes for academic research you are highly encouraged to cite the following paper:
 Maria Costa, Diana Boaventura, Isabel Alexandre, Pedro Santana. "A serious game to increase children’s knowledge about the vital role of sharks in marine ecosystems". To be in the Proceedings of the International Conference on Graphics and Interaction 2024 (ICGI).
